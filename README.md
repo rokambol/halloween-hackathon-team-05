@@ -71,32 +71,35 @@ Hackathon judges via Slack screen share.
 Halloween theme
 /15
 
-Code Institute, Hackathon
-Team Collaboration
-Use of Slack channel and Trello
+#### Code Institute, Hackathon Team Collaboration Use of Slack channel and Trello
 /15
-Usability and Practicality
-Application and ease of use
+
+#### Usability and Practicality Application and ease of use
 /10
-Effective Use of Course Knowledge
-Language, technique, and quality
+
+#### Effective Use of Course Knowledge Language, technique, and quality
 /10
-Awesomeness
-Creativity, imagination, and features
+
+#### Awesomeness Creativity, imagination, and features
 /10
-Total /60
+
+### Total /60
+
 The Hackathon prompt for the web app will be released on the day of the Hackathon.
-Final Presentations and Determining a Winning Team
+
+### Final Presentations and Determining a Winning Team
 Teams will have 3-5 minutes to present their final product to the judges and other
 teams via Zoom screen share, highlighting the technologies used, features, and the
 user stories. Following the presentations, the judges will have a Slack audio call to
 determine the winning team, which will be announced within 15 minutes of the final
 team presentation.
-Hackathon Scoring
+
+### Hackathon Scoring
 During the presentations, each judge will score each team in all categories. The
 average score will be taken from each category to calculate the total score. For ‘Team
 Collaboration’, this category will be based on the screen shots that your team has sent
 from your Trello board and your project’s GitHub commit history.
-Prizes
+
+### Prizes
 Prizes will be posted to the winning team, which will be announced at the end of the
 Hackathon. Winners will be contacted for a postal address.
