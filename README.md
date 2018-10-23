@@ -1,6 +1,7 @@
-Code Institute, Hackathon
-Halloween Hackathon: October 24th, 2018
-13:00 - 17:00 UTC / 14:00 - 18:00 CET / 8:00 - 12:00 EST
+# Code Institute, Hackathon
+## Halloween Hackathon: October 24th, 2018
+### 13:00 - 17:00 UTC / 14:00 - 18:00 CET / 8:00 - 12:00 EST
+
 Congratulations on signing up for the Halloween Hackathon! There are only a few days
 left until the big day. You should have received an invite to the private
 #hackathon-oct2018 Slack channel. If something has changed and you can no longer
